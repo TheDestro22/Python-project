@@ -12,8 +12,6 @@ first_menu.title("FCAI-CU")
 
 buttonframe = tk.Frame(first_menu)
 
-
-
 main_label = tk.Label(first_menu, text = "FCAI-CU Hub", font = ('Times New Roman', 28)).pack()
 
 control_button = tk.Button(first_menu, text = "Control Staff" , font = ('Arial' , 18)).pack()
